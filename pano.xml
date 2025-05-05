@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" apprev="20995" start="node42" appversion="7.1.9">
+  <panorama id="node42">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="120" tilt="2.14362" projection="4" pan="-164.713"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node42" title="戶外入口處" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="3.22" pan="-168.05" id="Point01" description="" title="點餐區入口" skinid="ht_node" url="{node35}" target="176.6/-5.5/100.0"/>
+      <hotspot tilt="-3.84" pan="-80.08" id="Point02" description="" title="戶外用餐區" skinid="ht_node" url="{node50}" target="-95.9/-2.7/100.0"/>
+      <hotspot tilt="-1.83" pan="-355.93" id="Point03" description="" title="戶外造景區" skinid="ht_node" url="{node51}" target="0.0/0.0/100.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node50">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node50" title="戶外用餐區" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-4" pan="-282.68" id="Point01" description="" title="戶外入口處" skinid="ht_node" url="{node42}" target="96.0/-1.7/120.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node51">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node51" title="戶外造景區" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-5.47" pan="-169.8" id="Point01" description="" title="戶外入口處" skinid="ht_node" url="{node42}" target="-164.7/2.1/120.0"/>
+      <hotspot tilt="1.34" pan="-281.3" id="Point02" description="" title="戶外車道" skinid="ht_node" url="{node55}" target="0.0/0.0/100.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node55">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node55" title="戶外車道" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-0.54" pan="-184.63" id="Point01" description="" title="戶外造景區" skinid="ht_node" url="{node51}" target="-102.2/-2.8/100.0"/>
+      <hotspot tilt="0.43" pan="-292.89" id="Point02" description="" title="戶外人造池" skinid="ht_node" url="{node48}" target="79.7/-4.2/100.0"/>
+      <hotspot tilt="-0.83" pan="-34.66" id="Point04" description="" title="霜淇淋車入口" skinid="ht_node" url="{node56}" target="-98.5/-4.0/100.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node56">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node56" title="霜淇淋車入口" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-5.57" pan="-310.37" id="Point02" description="" title="戶外車道" skinid="ht_node" url="{node55}" target="163.1/-0.8/100.0"/>
+      <hotspot tilt="-2.41" pan="-70.86" id="Point01" description="" title="霜淇淋餐車" skinid="ht_node" url="{node57}" target="-58.7/-5.2/100.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node57">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node57" title="霜淇淋餐車" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-3.92" pan="-282.59" id="Point01" description="" title="霜淇淋車入口" skinid="ht_node" url="{node56}" target=""/>
+      <hotspot tilt="2.36" pan="-108.03" id="Point02" description="" title="霜淇淋餐車" skinid="ht_node" url="{node43}" target="-85.8/-1.2/100.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node43" title="霜淇淋餐車" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-0.26" pan="-302.43" id="Point01" description="" title="霜淇淋餐車" skinid="ht_node" url="{node57}" target="75.5/-0.3/100.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node48">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node48" title="戶外人造池" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="1.64" pan="-159.66" id="Point01" description="" title="戶外車道" skinid="ht_node" url="{node55}" target="-93.0/2.1/100.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node35" title="點餐區入口" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-0.53" pan="-22.54" id="Point01" description="" title="戶外入口處" skinid="ht_node" url="{node42}" target="-16.5/-0.5/120.0"/>
+      <hotspot tilt="0.81" pan="-310.21" id="Point02" description="" title="室內廊道" skinid="ht_node" url="{node58}" target="47.5/2.8/100.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node58">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node58" title="室內廊道" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-2.97" pan="-59.03" id="Point01" description="" title="戶外入口處" skinid="ht_node" url="{node42}" target=""/>
+      <hotspot tilt="0.55" pan="-119.76" id="Point02" description="" title="點餐區入口" skinid="ht_node" url="{node35}" target=""/>
+      <hotspot tilt="0.26" pan="-267.54" id="Point04" description="" title="右側側門出口" skinid="ht_node" url="{node36}" target="-166.6/-5.2/100.0"/>
+      <hotspot tilt="0.86" pan="-300.09" id="Point03" description="" title="室內用餐區" skinid="ht_node" url="{node60}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node60">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node60" title="室內用餐區" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="0.18" pan="-27.8" id="Point01" description="" title="室內廊道" skinid="ht_node" url="{node58}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node36" title="右側側門出口" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-0.4" pan="-354.86" id="Point01" description="" title="室內廊道" skinid="ht_node" url="{node58}" target="-87.7/-1.6/100.0"/>
+      <hotspot tilt="-0.75" pan="-50.5" id="Point02" description="" title="後院" skinid="ht_node" url="{node38}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node38" title="後院" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-2.34" pan="-298.32" id="Point01" description="" title="右側側門出口" skinid="ht_node" url="{node36}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node45" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node47">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node47" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node49">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node49" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node64">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node64" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="1.12" pan="-130.67" id="Point01" description="" title="戶外入口處" skinid="ht_node" url="{node42}" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node34" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node33" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node61">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node61" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node62">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node62" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node63">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node63" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node37" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node39" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node40">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node40" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node41" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node52">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node52" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node53">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node53" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node54">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node54" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node44">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node44" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node46">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node46" title="" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node59">
+    <input levelingroll="0" width="1850" levelbiashidpi="1.000" height="1850" leveltilesize="510" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" predecode="0" width="1850" height="1850"/>
+      <level preload="0" predecode="0" width="925" height="925"/>
+      <level preload="1" predecode="1" width="462" height="462"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" fovstereographic="330" scaletofit="1" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" copyright="" datetime="" customnodeid="" nodeid="node59" title="室內用餐區" tags="Pano" author="" longitude="" info="" description="" comment="" latitude="" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label background="1" backgroundalpha="1" width="180" border="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="0.23" pan="-213.21" id="Point01" description="" title="室內用餐區" skinid="ht_node" url="{node60}" target="145.6/1.2/100.0"/>
+      <hotspot tilt="-1.66" pan="-41.21" id="Point02" description="" title="室內廊道" skinid="ht_node" url="{node58}" target="-115.2/8.5/100.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" level="0.600" pan="-1.000" field="90.000" nodechangekeep="1" loop="0" startmutedmobile="0" id="_background" ambientlevel="0.000" mode="0" pansize="10.000">
+        <source mono="0" url="media/Sleepy Jake - Silent Partner.mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomin="0" softedge="0" type="crossdissolve" enabled="1" delay="none" zoomafteroutfov="40" zoomout="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control contextvr="1" lockedkeyboard="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedmouse="0" lockedwheel="0" zoomcentercursor="1" simulatemass="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" description="" title="Mr. SAM" tags="" comment="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
